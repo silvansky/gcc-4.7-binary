@@ -1,6 +1,6 @@
 This is the Mac OSX binary for gcc-4.7-20120218, this file is provided for your convenience, if you prefer to compile yourself gcc-4.7 visit the tutorial webpage for build instructions:
 
-[http://solarianprogrammer.com/2012/02/20/living-on-the-edge-building-gcc-4-7-on-mac-osx-lion/](http://solarianprogrammer.com/2012/02/20/living-on-the-edge-building-gcc-4-7-on-mac-osx-lion/)
+http://solarianprogrammer.com/2012/02/20/living-on-the-edge-building-gcc-4-7-on-mac-osx-lion/
 
 Clone (download) the archive on your machine with:
 
